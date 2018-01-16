@@ -4,9 +4,9 @@ dependencies:
   module:
     - help
   theme:
-    - adminimal_theme
-id: adminimal_theme_help
-theme: adminimal_theme
+    - adminimal_theme_extras
+id: adminimal_theme_extras_help
+theme: adminimal_theme_extras
 region: help
 weight: 0
 provider: null

@@ -4,9 +4,9 @@ dependencies:
   module:
     - user
   theme:
-    - adminimal_theme
-id: adminimal_theme_login
-theme: adminimal_theme
+    - adminimal_theme_extras
+id: adminimal_theme_extras_login
+theme: adminimal_theme_extras
 region: content
 weight: 10
 provider: null
